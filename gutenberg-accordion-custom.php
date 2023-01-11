@@ -1,7 +1,7 @@
 <?php 
 
 /*
-    Plugin Name: Gutenbers Accordion Custom
+    Plugin Name: Gutenberg Accordion Custom
     Description: Test plugin
     Version: 1.0
     Author: Anton Karpov
